@@ -1,0 +1,7 @@
+COIN_NAME="mrvcoin"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="mrv_coind"
+COIN_CLI="mrv_coin-cli"
+COIN_FOLDER="/root/.mrvcoin"
+COIN_CONFIG="mrv_coin.conf"
+COIN_SERVICE="mrvcoin.service"
