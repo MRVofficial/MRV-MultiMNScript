@@ -53,10 +53,10 @@ You can get priv key of all MN with:
 Note this all priv key and make `masternode.conf` in your Coldwallet where you done MasternodeTx.
 so `masternode.conf` look like this:
 ```
-MN01 IP:9555 MN_PrivKey Tx_Hash Output_Index
-MN02 IP:9555 MN_PrivKey Tx_Hash Output_Index
-MN03 IP:9555 MN_PrivKey Tx_Hash Output_Index
-MN04 IP:9555 MN_PrivKey Tx_Hash Output_Index
+MN01 IP:2362 MN_PrivKey Tx_Hash Output_Index
+MN02 IP:2362 MN_PrivKey Tx_Hash Output_Index
+MN03 IP:2362 MN_PrivKey Tx_Hash Output_Index
+MN04 IP:2362 MN_PrivKey Tx_Hash Output_Index
 ```
 
 Here IP and port Same for all MN.
