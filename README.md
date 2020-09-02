@@ -2,7 +2,16 @@
 
 A script which is easily create Multiple Masternodes of the same coin in the same VPS.
 
-First of all you have to start one masternode using <a href="https://github.com/MRVofficial/MRV-MNScript/blob/master/mrv_16.04.sh">mrv_16.04.sh</a> script that is your MainNode.
+First of all you have to start one masternode using <a href="https://github.com/MRVofficial/MRV-MultiMNScript/blob/master/profiles/mrv_16.04.sh">mrv_16.04.sh</a> script that is your MainNode.
+
+# Guide of use mrv_16.04.sh for MainNode:
+
+```
+wget -q https://raw.githubusercontent.com/MRVofficial/MRV-MultiMNScript/master/profiles/mrv_16.04.sh
+sudo chmod +x mrv_16.04.sh
+./mrv_16.04.sh
+```
+***
 
 # Guide for Install MultiMN:
 
@@ -86,7 +95,6 @@ systemctl start   mrvcoin-3.service
 ```
 
 That's all now your MN start.
-
 
 
 
